@@ -39,7 +39,6 @@ public class perfil extends AppCompatActivity {
     private void cargarPreferencias(){
 
         SharedPreferences preferences = getSharedPreferences("datos", Context.MODE_PRIVATE);
-
         nombre.setText(preferences.getString("nombre",""));
         telefono.setText(preferences.getString("telefono",""));
         correo.setText(preferences.getString("correo",""));
