@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262476463054",
+    "firebase_url": "https://pruebacurso-7e4b0.firebaseio.com",
+    "project_id": "pruebacurso-7e4b0",
+    "storage_bucket": "pruebacurso-7e4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262476463054:android:abf60518a715cfc7",
+        "android_client_info": {
+          "package_name": "com.pruebita.preferencias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262476463054-b2n18ckrlmrjuhcmcv8uu8bionalgjnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pruebita.preferencias",
+            "certificate_hash": "b2603b7969d8844d5576d8a873618d524b503621"
+          }
+        },
+        {
+          "client_id": "262476463054-euh4p9cnc9akdlkum07ioair6am2b0ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7ROMqrhyKW8N7QhOXEaD1XIBX7eCCuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262476463054-euh4p9cnc9akdlkum07ioair6am2b0ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

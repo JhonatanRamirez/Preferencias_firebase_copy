@@ -8,17 +8,19 @@
     tools:context=".perfil">
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
         >
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="SharedPreferences"
+            android:id="@+id/lbl_titulo"
+            android:text=""
             android:textSize="25dp"
             android:textStyle="bold"
             android:textColor="@color/colorPrimaryDark"

@@ -25,8 +25,7 @@ public class MainActivity extends AppCompatActivity {
         email=findViewById(R.id.edit_correo);
         telefono=findViewById(R.id.edit_telefono);
 
-
-
+        cargarPreferencias();
 
         siguiente.setOnClickListener(new View.OnClickListener() {
             @Override
